@@ -1,0 +1,20 @@
+[
+    {
+        "Title": "Post 1",
+        "content": "Hello from post 1"
+    },
+
+    {
+        "Title": "Post 2",
+        "content": "Hello from post 2"
+    },
+    {
+        "Title": "Post 3",
+        "content": "Hello from post 3"
+    },
+    {
+        "Title": "Post 4",
+        "content": "Hello from post 4"
+    }
+
+]
